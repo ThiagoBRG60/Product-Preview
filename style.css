@@ -21,62 +21,62 @@ body {
 }
 
 .text {
-    margin: 25px 35px 0 35px;
+  margin: 25px 35px 0 35px;
 }
 
 #pre-title {
-    color: rgb(115,116,121);
-    font-size: 14px;
+  color: rgb(115, 116, 121);
+  font-size: 14px;
 }
 
 #title {
-    font-family: Fraunces;
-    font-size: 14;
-    line-height: 32px;
+  font-family: Fraunces;
+  font-size: 14;
+  line-height: 32px;
 }
 
 #text-2 {
-    color: rgb(116,116,126);
-    line-height: 25px;
+  color: rgb(116, 116, 126);
+  line-height: 25px;
 }
 
 .prices {
-    display: flex;
-    margin-top: -20px;
+  display: flex;
+  margin-top: -20px;
 }
 
 #price {
-    display: flex;
-    font-family: fraunces;
-    font-weight: 700;
-    font-size: 36px;
-    color: rgb(57,130,103);
+  display: flex;
+  font-family: fraunces;
+  font-weight: 700;
+  font-size: 36px;
+  color: rgb(57, 130, 103);
 }
 
 #price-2 {
-    color: rgb(103,102,108);
-    display: flex;
-    align-items: center;
-    margin-left: 25px;
-    text-decoration: line-through;
+  color: rgb(103, 102, 108);
+  display: flex;
+  align-items: center;
+  margin-left: 25px;
+  text-decoration: line-through;
 }
 
 .button img {
-margin-top: 14px;  
-max-height: 20px;
-max-width: 20px;
-margin-left: 65px;
+  margin-top: 14px;
+  max-height: 20px;
+  max-width: 20px;
+  margin-left: 65px;
 }
 
 .button {
-    display: flex;
-    background-color: rgb(61,129,104);
-    height: 50px;
-    border-radius: 8px;
+  display: flex;
+  background-color: rgb(61, 129, 104);
+  height: 50px;
+  border-radius: 8px;
 }
 
 #text-button {
-    font-family: montserrat;
-    margin-left: 13px;
-    color: white;
+  font-family: montserrat;
+  margin-left: 13px;
+  color: white;
 }
